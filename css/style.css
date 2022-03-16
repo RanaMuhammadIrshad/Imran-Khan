@@ -1,0 +1,46 @@
+img {
+    width: 250px;
+    padding: 1rem;
+}
+nav {
+    font-size: 3rem;
+    height: 30vh;
+    background-color: aqua;
+}
+main, footer{
+    font-size: 2rem;
+    text-align: justify;
+}
+main {
+    background-color: azure;
+}
+footer {
+    background-color: rgb(191, 191, 201);
+    color: white;
+}
+nav img {
+    float: right;
+}
+
+#early-life-and-family img {
+    float: right;
+}
+#political-ideology img {
+    float: left;
+}
+
+.picture-left img {
+    float: left;
+}
+.picture-right img {
+    float: right;
+}
+a:visited {
+    background-color: black;
+}
+a:hover {
+    background-color: orange;
+}
+a:active {
+    background-color: red;
+}
